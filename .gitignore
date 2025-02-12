@@ -54,3 +54,4 @@ rsconnect/
 
 # python
 **/__pycache__/
+*.code-workspace
