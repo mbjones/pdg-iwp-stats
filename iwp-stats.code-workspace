@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+			"r.bracketedPaste": true,
+			"r.rterm.mac": "/Users/jones/.virtualenvs/flexdb/bin/radian"
+	}
+}
