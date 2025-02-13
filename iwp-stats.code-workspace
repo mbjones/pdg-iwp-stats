@@ -6,6 +6,6 @@
 	],
 	"settings": {
 			"r.bracketedPaste": true,
-			"r.rterm.mac": "/Users/jones/.virtualenvs/flexdb/bin/radian"
+			"r.rterm.mac": ".venv/bin/radian"
 	}
 }
